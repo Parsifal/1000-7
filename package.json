@@ -6,6 +6,6 @@
   "author": "Parsifal",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "@types/node": "^16.0.0"
+    "@types/node": "^16.3.0"
   }
 }
