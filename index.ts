@@ -6,8 +6,7 @@ class DeadInside {
   private cycle?: NodeJS.Timeout;
   private number = 1000;
 
-  constructor(private readonly token: string, private readonly interval = 60 * 1000) {
-  }
+  constructor(private readonly token: string, private readonly interval = 60 * 1000) {}
 
   startStatusChangeCycle() {
     this.endStatusChangeCycle();
