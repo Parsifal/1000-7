@@ -6,6 +6,6 @@
   "author": "Parsifal",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^17.0.20"
+    "@types/node": "^17.0.23"
   }
 }
