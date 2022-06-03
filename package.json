@@ -1,11 +1,22 @@
 {
-  "name": "dead-inside",
+  "name": "1000-7",
   "version": "1.0.0",
+  "description": "This program, interacting with the [VK API](https://vk.com/dev/manuals), changes the user's status every `interval` of milliseconds, counting 1000 minus 7, 993 minus 7, etc., thereby creating an animation.",
   "main": "index.js",
-  "repository": "git@github.com:Parsifal/dead-inside.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parsifal/1000-7.git"
+  },
   "author": "Parsifal",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parsifal/1000-7/issues"
+  },
+  "homepage": "https://github.com/Parsifal/1000-7#readme",
   "devDependencies": {
-    "@types/node": "^17.0.23"
+    "@types/node": "^17.0.39"
   }
 }
