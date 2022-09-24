@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Parsifal/1000-7#readme",
   "devDependencies": {
-    "@types/node": "^17.0.39"
+    "@types/node": "^18.7.20"
   }
 }

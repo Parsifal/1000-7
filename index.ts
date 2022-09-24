@@ -5,7 +5,6 @@ const token = "";
 class DeadInside {
   private timer?: NodeJS.Timer;
   private number = 1000;
-
   constructor(
     private readonly token: string,
     private readonly interval = 2 * 1000
